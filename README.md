@@ -1,9 +1,10 @@
-# Data Analyst
+# Data Analytics Portfolio
+## About Me
 #### I am an analytical and detail-oriented data analytics master’s student with expertise in data visualization, statistical modeling, and machine learning. Skilled in R, SQL, Python, and advanced data tools, with a proven ability to translate complex data into actionable insights that drive strategic decision-making. Experienced in cross-functional collaboration and effectively communicating technical findings to diverse audiences. Passionate about leveraging data-driven approaches to solve complex problems and support organizational growth.
 
 ## Education 👨🏻‍🎓
-* M.S., Data Analytics | Franklin University (_May 2025_)
-* B.S., Biology | Ohio Northern University (_May 2007_)
+* M.S., Data Analytics - Franklin University (_May 2025_)
+* B.S., Biology - Ohio Northern University (_May 2007_)
 
 ## Certifications 🏅
 * **Machine Learning with Python** (_August 2024_)
@@ -22,6 +23,8 @@ Description: I developed a dashboard utilizing data from the U.S. Department of 
 
 ![Visualization 30](https://github.com/user-attachments/assets/23f65ab2-96d2-426c-a493-c012b076701b)
 ---
+
+### Python Modeling
 
 
 Data cleaning in python and R
