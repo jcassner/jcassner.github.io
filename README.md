@@ -1,4 +1,5 @@
 # Data Analytics Portfolio
+<a href="JCassner_Data_Analyst.docx" download>Resume</a>
 ## About Me
 #### Detail-oriented and motivated data analyst with hands-on experience in data cleaning, exploration, and visualization using real-world datasets. Skilled in transforming raw data into actionable insights through clear visual storytelling and interactive dashboards. Proficient in SQL, Python, R, and business intelligence tools such as Tableau. Strong communicator with a track record of cross-functional collaboration and iterative problem-solving. Passionate about uncovering trends and patterns to support data-informed decision-making in dynamic, fast-paced environments.
 
