@@ -18,7 +18,9 @@
 ## Projects 🛠️
 ### Machine Learning
 [Data Preprocessing & EDA]()
+
 [SkyMart Sales Predictive Modeling]()
+
 [Final Report](https://github.com/jcassner/jcassner.github.io/blob/main/SkyMart_Final_Report.docx)
 
 Description: SkyMart is a leader in the United States retail business sector with over 45 stores nationwide and sought to uncover valuable insights from newly gathered data relating to their business performance. Their main goal was to develop a predictive model to best forecast future sales of their company while also pulling insights of individual store's sales performance, deciphering seasonal fluctuations to improve inventory preparedness, and determining if external factors have a major effect on overall sales. Key steps in delivering on SkyMart's requests involved an in-depth data wrangling & cleaning, exploratory data analysis (EDA), data modeling, and evaluation. 
