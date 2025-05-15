@@ -18,9 +18,9 @@
 
 ## Projects 🛠️
 ### Machine Learning
-[Data Preprocessing & EDA]()
+[Data Cleaning & EDA](https://colab.research.google.com/drive/10U9YVvh9neSB3jiR-X5TOwu2pF_vyzG5#scrollTo=7_uyYmpQFFhI)
 
-[SkyMart Sales Predictive Modeling]()
+[SkyMart Sales Predictive Modeling](https://colab.research.google.com/drive/1Qr5fHEcdC1lomarmXOTromuZdZML6Cmk#scrollTo=rAeijP5UHt4h)
 
 <a href="SkyMart_Final_Report.docx" download>Final Report</a>
 
